@@ -75,13 +75,10 @@ main header {
 		padding:50px 30px;
 	}
 }
-
-
 main header >.page-section {
   text-align: center;
   margin-bottom: 30px;
   max-width: 675px;
-
 }
 main header > img{
  border-radius: 50%;
@@ -112,7 +109,6 @@ main header > img{
 	}
 }
 
-
 #contact>div{
 	margin: 20px auto;
 }
@@ -138,6 +134,7 @@ main #contact>div>div p{
 
 form {
 	width: 180px;
+	margin-bottom: 20px;
 }
 @media(min-width: 1023px){
 	form{
